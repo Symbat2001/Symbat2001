@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: blueviolet;
+}
+
+
+.batyrma{
+    display: flex;
+    column-gap: 250px;
+}
+
+.batyrmalar{
+    text-decoration: none;
+    font-weight: 600px;
+    color: gold;
+    
+}
+
+.batyrmalar:hover{
+    color: #fff;
+   
+}
